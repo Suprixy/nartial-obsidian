@@ -43,13 +43,13 @@ While she study about psychology, she secretly become a member of an organizatio
 
 ---
 #  - Lore (edit gak)
-She was born in [[Allanea]]. She is the second child of 4. She has 1 older sister and 2 brothers. She live near the sea. When she was a child, she really enjoyed swimming and catching fish in the sea. Her parents job is a oyster farmer, from that she got her pearl necklace.
+She was born in [[Allanea]]. She is the second child of 4. She has 1 older sister and 2 brothers. She live near the sea. When she was a child, she really enjoyed swimming and catching fish in the sea. Her parents job is a oyster farmer, from that she got her pearl necklace to remember her home country.
 
 She was and is a smart student. She always got A score on every test. When she was in elementary and middle/junior high school, she won a national socials competition from Allanea. Sometimes she got praised sometime don't, yet she didn't really care about praised after all.
 
 At 16th years old, she got a high school scholarship to Nartial. When she arrived , she was shocked and confused by cultural difference between Allanea and Nartial. Then she went to her boarding room. She is fascinated with the beauty of a lot of culture that exist together, Magic, clothes, and the history of Nartial itself. Because of her new interest, She also bought and wear one of Nartials traditional clothes, [[Bodoya clothes]].
 
-On random weekday, she walked to her room, then she saw someone with shabby clothes 
+On random weekday, she walked to her room, then she saw someone walking
 
 
 Then she got a scholarship in [[Meagel University]]. She absolutely happy and enjoy studying about psychology.
