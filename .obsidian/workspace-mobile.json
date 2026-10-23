@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nartial world/Groups/Character.md",
+                "file": "Nartial world/Nartial home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "Nartial home"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nartial world/Groups/Character.md",
+            "file": "Nartial world/Nartial home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,10 +176,11 @@
   },
   "active": "0f2d177cf024fb21",
   "lastOpenFiles": [
+    "Nartial world/Groups/Character.md",
+    "Nartial world/Nartial home.md",
     "Nartial world/+ newly added/Untitled.base",
     "Nartial world/Groups/Meagel Magic Academy.md",
     "Nartial world/Groups/GAPERA.md",
-    "Nartial world/Groups/Character.md",
     "Nartial world/Character/Cibbi Nadison.md",
     "Nartial world/Character/Mizty Mint.md",
     "Nartial world/templates/Character info template.md",
