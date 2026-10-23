@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nartial world/Stuff/Character/Cibbi Nadison.md",
+                "file": "Nartial world/+ newly added/Git sych test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cibbi Nadison"
+              "title": "Git sych test"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nartial world/Stuff/Character/Cibbi Nadison.md",
+            "file": "Nartial world/+ newly added/Git sych test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Nartial world/Stuff/Character/Cibbi Nadison.md",
+            "file": "Nartial world/+ newly added/Git sych test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Nartial world/Stuff/Character/Cibbi Nadison.md",
+            "file": "Nartial world/+ newly added/Git sych test.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -175,7 +175,7 @@
   },
   "active": "0f2d177cf024fb21",
   "lastOpenFiles": [
-    "Nartial world/Nartial bases.base",
-    "Nartial world/Stuff/Character/Cibbi Nadison.md"
+    "Nartial world/Stuff/Character/Cibbi Nadison.md",
+    "Nartial world/Nartial bases.base"
   ]
 }
