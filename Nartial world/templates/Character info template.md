@@ -30,13 +30,10 @@ icon:
 
 ---
 #  - Images
-- computer side
-
-- mobile side
 
 ---
 
-#  - Lore (edit gak!)
+#  - Lore
 
 ---
 #  - Relationship 

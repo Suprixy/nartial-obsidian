@@ -26,5 +26,5 @@ creator: [[Suprixy]] :)
 
 # ☆[[Places]]
 
-  Aualap yg penting ada commit
+  
   
