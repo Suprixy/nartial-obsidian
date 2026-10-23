@@ -34,7 +34,7 @@ sub group:
 
 ---
 
-##  - Lore (edit gak!)
+#  - Lore (edit gak!)
 
 ---
 #  - Relationship 

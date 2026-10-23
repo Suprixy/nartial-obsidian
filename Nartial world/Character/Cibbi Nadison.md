@@ -42,7 +42,7 @@ She is mostly introverted and loves spend her time to study, reads. and writes b
 
 ---
 
-##  - Lore
+#  - Lore
 She was born in January 13th in [[Nizema]], Nartial. Live as the only child in the family. She got great amount love from her parent. At this time, she mostly spends her time to play with neighbor kid or reading fiction books in her bedroom just like typical kid. Also she is labeled as smart student because she always got 1st rank at school.
 
 When she was 10 years old, there was a gas leakage in her house. At that time, she was watering plants at her home. Everyone was trying to let the gas out of the house, but one of her house member switched the light on cluelessly. The house was burned and her parents and grandparents inside that home was dead. 

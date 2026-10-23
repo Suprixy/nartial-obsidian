@@ -3,7 +3,7 @@ tags:
   - "#OC"
   - "#GAPERA"
   - "#Mizty"
-group: Character
+group: "[[Character]]"
 sub group: "[[GAPERA]]"
 ---
 # - Introduction 
@@ -44,7 +44,7 @@ While she study about psychology, she secretly become a member of an organizatio
 ![[massive redesign oc.png]]
 
 ---
-##  - Lore (edit gak)
+#  - Lore (edit gak)
 She was born in [[Allanea]]. She is the second child of 4. She has 1 older sister and 2 brothers.She live near the sea. When she was a child, she really enjoyed swimming and catching fish in the sea. Her parents job is a oyster farmer, from that she got her pearl necklace.
 
 She was and is a smart student. She always got A score on every test. When she was in elementary and middle/junior high school, she won a national math competition from Allanea. Sometimes she got praised sometime don't, yet she didn't really care about praised after all.
