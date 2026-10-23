@@ -1,0 +1,7 @@
+views:
+  - type: list
+    name: GAPERA
+    filters:
+      and:
+        - group == link("Character")
+        - note["sub group"] == link("GAPERA")

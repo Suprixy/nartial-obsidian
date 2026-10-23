@@ -23,7 +23,6 @@
     "editor:toggle-checklist-status",
     "editor:indent-list",
     "editor:unindent-list",
-    "bases:insert",
     "editor:insert-codeblock",
     "audio-recorder:start",
     "audio-recorder:stop",

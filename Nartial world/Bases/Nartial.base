@@ -1,0 +1,27 @@
+views:
+  - type: list
+    name: Republic of Nartial
+    filters:
+      and:
+        - group == link("Character")
+        - or:
+            - note["sub group"] == link("Republic of Nartial")
+            - note["sub group 2"] == link("Republic of Nartial")
+  - type: list
+    name: Meagel Magic Academy member
+    filters:
+      and:
+        - group == link("Character")
+        - or:
+            - note["sub group"] == link("Meagel Magic Academy")
+            - note["sub group 2"] == link("Meagel Magic Academy")
+  - type: list
+    name: GAPERA member
+    filters:
+      and:
+        - group == link("Character")
+        - or:
+            - note["sub group"] == link("GAPERA")
+            - note["sub group 2"] == link("GAPERA")
+  - type: list
+    name: Nartial Kingdom member

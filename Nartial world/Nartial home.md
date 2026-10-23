@@ -5,13 +5,16 @@ creator: [[Suprixy]] :)
 # ☆[[Character]]
 
 #### [[Meagel Magic Academy]]
-![[Meagel member.base]]
+![[Nartial.base]]
 #### [[GAPERA]]
-![[GAPERA member.base]]
+![[Nartial.base]]
 
-![[Nartial world/+ newly added/Untitled.base]]
+#### [[Nartial Kingdom]]
+![[Nartial.base]]
+#### [[Republic of Nartial]]
 
 ---
+
 
 # ☆[[Magic System]]
 
