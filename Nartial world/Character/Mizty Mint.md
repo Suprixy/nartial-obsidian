@@ -49,7 +49,7 @@ She was and is a smart student. She always got A score on every test. When she w
 
 At 16th years old, she got a high school scholarship to Nartial. When she arrived , she was shocked and confused by cultural difference between Allanea and Nartial. Then she went to her boarding room. She is fascinated with the beauty of a lot of culture that exist together, Magic, clothes, and the history of Nartial itself. Because of her new interest, She also bought and wear one of Nartials traditional clothes, [[Bodoya clothes]].
 
-On random weekday, she walked to her room, then she saw someone walking
+On random weekday after school, she walked to her room, then she saw someone sleeping near her boarding door. The person woke up and Mizty greet to them. Then she asked the person about anything in 
 
 
 Then she got a scholarship in [[Meagel University]]. She absolutely happy and enjoy studying about psychology.
