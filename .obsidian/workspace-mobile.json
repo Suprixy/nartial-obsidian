@@ -11,14 +11,13 @@
             "id": "0f2d177cf024fb21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Nartial world/Nartial home.md",
-                "mode": "source",
-                "source": false
+                "file": "Nartial world/Bases/Meagel member.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "Nartial home"
+              "icon": "lucide-table",
+              "title": "Meagel member"
             }
           }
         ]
@@ -117,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nartial world/Nartial home.md",
+            "file": "Nartial world/Bases/Meagel member.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,8 +176,13 @@
   "active": "0f2d177cf024fb21",
   "lastOpenFiles": [
     "Nartial world/Bases/GAPERA member.base",
+    "Nartial world/Bases/Republic of Nartial.base",
+    "Nartial world/Bases",
     "Nartial world/Nartial home.md",
-    "Nartial world/Bases/Nartial.base",
+    "Nartial world/Bases/Nartial kingdom.base",
+    "Nartial world/Bases/Meagel member.base",
+    "Nartial world/Character/Cibbi Nadison.md",
+    "Nartial world/Nartial.base",
     "Nartial world/Bases/Meagel member.base",
     "Nartial world/Bases/Nartial kingdom.base",
     "Nartial world/+ newly added/Meagel Magic Academy]] , [[kingdom.md",
@@ -187,7 +191,6 @@
     "Nartial world/templates/Character info template.md",
     "Nartial world/Groups/Character.md",
     "Nartial world/Character/Mizty Mint.md",
-    "Nartial world/Character/Cibbi Nadison.md",
     "Nartial world/Nartial bases.base",
     "Nartial world/+ newly added/Untitled.md",
     "Nartial world/Bases",

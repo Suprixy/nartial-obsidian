@@ -1,0 +1,6 @@
+filters:
+  and:
+    - group == link("Character")
+views:
+  - type: table
+    name: View
