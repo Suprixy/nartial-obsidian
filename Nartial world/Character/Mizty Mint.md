@@ -6,7 +6,7 @@ tags:
 group: "[[Character]]"
 sub group: "[[GAPERA]]"
 sub group 2:
-icon:
+icon: "[[Mizty_pp.jpeg]]"
 ---
 # - Introduction 
 
@@ -39,7 +39,7 @@ While she study about psychology, she secretly become a member of an organizatio
 
 ---
 #  - Images
-
+![[Mizty_pp.jpeg|353]]
 
 ---
 #  - Lore (edit gak)
@@ -47,12 +47,11 @@ She was born in [[Allanea]]. She is the second child of 4. She has 1 older siste
 
 She was and is a smart student. She always got A score on every test. When she was in elementary and middle/junior high school, she won a national socials competition from Allanea. Sometimes she got praised sometime don't, yet she didn't really care about praised after all.
 
-At 16th years old, she got a high school scholarship to Nartial. When she arrived , she was shocked and confused by cultural difference between Allanea and Nartial. Then she went to her boarding room. She is fascinated with the beauty of a lot of culture that exist together, Magic, clothes, and the history of Nartial itself. Because of her new interest, She also bought and wear one of Nartials traditional clothes, [[Bodoya clothes]].
+At 16 years old, she got a high school scholarship to Nartial. When she arrived , she was shocked and confused by cultural difference between Allanea and Nartial. Then she went to her boarding room. She is fascinated with the beauty of a lot of culture that exist together, Magic, clothes, and the history of Nartial itself. Because of her new interest, She also bought and wear one of Nartials traditional clothes, [[Bodoya clothes]].
 
-On random weekday after school, she walked to her room, then she saw someone sleeping near her boarding door. The person woke up and Mizty greet to them. Then she asked the person about anything in 
+(ketemu cibbi, pls dont make yuri even if it inevetable)
 
-
-Then she got a scholarship in [[Meagel University]]. She absolutely happy and enjoy studying about psychology.
+Then she got a scholarship in [[Meagel University]]. She absolutely happy and enjoy studying about psychology. She want to become clinical psychologist because she lr
 
 ---
 #  - Relationship 
