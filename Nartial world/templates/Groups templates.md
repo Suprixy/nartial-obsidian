@@ -7,9 +7,6 @@ sub group:
 
 ---
 # Members
-
-> [!member] 
-> - [[]]
-
+[[]] (add base)
 ---
 # - Description

@@ -1,7 +1,8 @@
 ---
 tags:
-group: "[[Character]"
+group: "[[Character]]"
 sub group:
+sub group 2:
 ---
 # - Introduction 
 

@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: View
+  - type: list
+    name: View 2
+    filters:
+      and:
+        - group == link("Character")
+        - or:
+            - note["sub group"] == link("Nartial Kingdom")
+            - note["sub group 2"] == link("Nartial Kingdom")
+  - type: table
+    name: View 3

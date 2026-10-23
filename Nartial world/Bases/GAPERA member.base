@@ -4,7 +4,9 @@ views:
     filters:
       and:
         - group == link("Character")
-        - note["sub group"] == link("GAPERA")
+        - or:
+            - note["sub group"] == link("GAPERA")
+            - note["sub group 2"] == link("GAPERA")
   - type: list
     name: View 2
     filters:

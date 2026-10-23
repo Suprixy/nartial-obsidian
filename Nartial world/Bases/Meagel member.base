@@ -4,7 +4,9 @@ views:
     filters:
       and:
         - group == link("Character")
-        - note["sub group"] == link("Meagel Magic Academy")
+        - or:
+            - note["sub group"] == link("Meagel Magic Academy")
+            - note["sub group 2"] == link("Meagel Magic Academy")
   - type: list
     name: Test
     indentProperties: false

@@ -5,6 +5,7 @@ tags:
   - "#Mizty"
 group: "[[Character]]"
 sub group: "[[GAPERA]]"
+sub group 2:
 ---
 # - Introduction 
 

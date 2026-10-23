@@ -9,6 +9,8 @@ creator: [[Suprixy]] :)
 #### [[GAPERA]]
 ![[GAPERA member.base]]
 
+![[Nartial world/+ newly added/Untitled.base]]
+
 ---
 
 # ☆[[Magic System]]
