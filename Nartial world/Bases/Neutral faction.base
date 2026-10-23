@@ -1,0 +1,10 @@
+filters:
+  and:
+    - group == link("Character")
+    - or:
+        - note["sub group"] == link("Neutral faction")
+        - note["sub group 2"] == link("Neutral faction")
+views:
+  - type: cards
+    name: View
+    image: note.icon

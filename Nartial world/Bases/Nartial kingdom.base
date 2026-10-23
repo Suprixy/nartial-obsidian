@@ -1,3 +1,10 @@
+filters:
+  and:
+    - group == link("Character")
+    - or:
+        - note["sub group"] == link("Nartial Kingdom")
+        - note["sub group 2"] == link("Nartial Kingdom")
 views:
-  - type: table
+  - type: cards
     name: View
+    image: note.icon

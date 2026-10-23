@@ -7,6 +7,7 @@ tags:
 group: "[[Character]]"
 sub group: "[[Meagel Magic Academy]]"
 sub group 2: "[[Nartial Kingdom]]"
+icon: "[[Untitled11_20261003125810.png]]"
 ---
 # - Introduction 
 Cibbi is a magician who owned can can control sky crystal magic. She is be able to control wind, weather, thunder, teleportation, and make her own realm. She is mostly introverted and loves spend her time to study, reads. and writes books either in library or her own realm. She mostly shows flat expression when she is with another people.
@@ -39,7 +40,7 @@ She is mostly introverted and loves spend her time to study, reads. and writes b
 - computer side
 ![[cibbi reference sheet 2.0.jpeg]]
 
-- Mobile side
+![[Untitled11_20261003125810.png]]
 
 ---
 

@@ -16,6 +16,8 @@ creator: [[Suprixy]] :)
 #### [[Republic of Nartial]]
 ![[Republic of Nartial.base]]
 
+#### [[Neutral faction]]
+![[Neutral faction.base]]
 ---
 
 # ☆[[Magic System]]
@@ -24,5 +26,5 @@ creator: [[Suprixy]] :)
 
 # ☆[[Places]]
 
-  
+  Aualap yg penting ada commit
   

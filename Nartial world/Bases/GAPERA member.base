@@ -7,3 +7,4 @@ filters:
 views:
   - type: cards
     name: View
+    image: note.icon
