@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - group == link("Character")
+        - note["sub group"] == link("GAPERA")
+  - type: list
+    name: View 2
+    filters:
+      and:
+        - group == link("Character")
+        - note["sub group"] == link("GAPERA")

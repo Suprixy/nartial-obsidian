@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nartial world/Nartial home.md",
+                "file": "Nartial world/Character/Cibbi Nadison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nartial home"
+              "title": "Cibbi Nadison"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nartial world/Nartial home.md",
+            "file": "Nartial world/Character/Cibbi Nadison.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,16 +176,21 @@
   },
   "active": "0f2d177cf024fb21",
   "lastOpenFiles": [
-    "Nartial world/Groups/Character.md",
+    "Nartial world/+ newly added/Meagel Magic Academy]] , [[kingdom.md",
+    "Nartial world/Character/Cibbi Nadison.md",
     "Nartial world/Nartial home.md",
+    "Nartial world/Bases/GAPERA member.base",
+    "Nartial world/Nartial bases.base",
+    "Nartial world/Bases/Meagel member.base",
+    "Nartial world/+ newly added/Untitled.md",
     "Nartial world/+ newly added/Untitled.base",
+    "Nartial world/Bases",
+    "Nartial world/templates/Character info template.md",
+    "Nartial world/Groups/Character.md",
     "Nartial world/Groups/Meagel Magic Academy.md",
     "Nartial world/Groups/GAPERA.md",
-    "Nartial world/Character/Cibbi Nadison.md",
     "Nartial world/Character/Mizty Mint.md",
-    "Nartial world/templates/Character info template.md",
     "Nartial world/+ newly added/Git sych test.md",
-    "Nartial world/Character/Andhra Soliren.md",
-    "Nartial world/Nartial bases.base"
+    "Nartial world/Character/Andhra Soliren.md"
   ]
 }

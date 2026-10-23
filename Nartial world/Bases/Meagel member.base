@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - group == link("Character")
+        - note["sub group"] == link("Meagel Magic Academy")
+  - type: list
+    name: Test
+    indentProperties: false
+  - type: list
+    name: Meagel character
+    filters:
+      and:
+        - group == link("Character")
+        - note["sub group"] == link("Meagel Magic Academy")

@@ -1,6 +1,6 @@
 ---
 tags:
-group: Character
+group: "[[Character]"
 sub group:
 ---
 # - Introduction 

@@ -28,5 +28,6 @@
     "audio-recorder:start",
     "audio-recorder:stop",
     "editor:configure-toolbar"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
