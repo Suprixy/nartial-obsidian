@@ -63,6 +63,14 @@ She thinks Azka has weird goals to change government system again just like how 
 
 "He just a random person who want to change government system huh. I don't think that won't work consider what is going on in [[Meagel Magic Academy]]"
 
+### [[Suprixy]]
+interacted
+Just double check facts from [[Cibbi Nadison]]
+
+"So, you are Suprixy huh?"
+
 ---
 # - Fact 
-- insert
+- Her necklace is made by her sister and Mizty wear it to remember her origin
+  
+- She scared with holes because when she was a kid she accidently saw a image of hand with full of holes (IYKYK)

@@ -16,7 +16,7 @@ icon: "[[Andhra_pp.png]]"
 - Height: 163 cm
 - Weight: 54 kg
 - Birthday: 12 June
-- Hobbies: 
+- Hobbies: listening music and collecting music record (dangdut)
 - Personal interest: money
 - Most favorite food: Rawon
 - Least favorite food:
@@ -34,7 +34,7 @@ icon: "[[Andhra_pp.png]]"
 
 ---
 
-#  - Lore
+#  - Lore (edit gak)
 At 5 years old teacher asked him what occupation he wanna be. At that time he still didn't have any idea what occupation he wanna be. For minutes he thought and got his answer that he wanna be a police. Police looks brave, tough and kind because police really like to help other people
 
 He studied and exercise for years to get his dream to be a police. Learned about what things police must know, study to get good grades on class an more. Especially on high school he train his body at least twice a week on the weekend. Chase to get it while he forgot to make connection with his friends on school.

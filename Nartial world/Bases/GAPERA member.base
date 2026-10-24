@@ -3,7 +3,7 @@ filters:
     - group == link("Character")
     - or:
         - note["sub group"] == link("GAPERA")
-        - note["sub group 2"] == link("GAPERA member.base")
+        - note["sub group 2"] == link("GAPERA")
 views:
   - type: cards
     name: View
