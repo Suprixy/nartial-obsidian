@@ -1,5 +1,6 @@
 ---
 tags:
+  - "#persona"
 group: "[[Character]]"
 sub group: "[[Neutral faction]]"
 sub group 2:
@@ -44,10 +45,9 @@ I will use 3rd POV this time
 
 Long time ago, she play a roleplay about kingdom with her neighbors. She roleplayed as the witches who steal magic crystal to gain more power and control the world. While the other are the princesses of Ian Kingdom (because the king name is Ian) that protect the crystal from the witches. For some weird reason, the witches got a crystal and become sky princess and cut her communication with another witches. And the peace was made. 
 
+After years of life experience. She saw many information about weird politics in one country. Weird and kind off inhuman political plan, statement and  common senses. Nickel and palm tree make water dirty, flash flood and forest fire that harm normal civilians.
 
-After the roleplay era end, she made her first OC [[Cibbi Nadison]] who represent the witches and modified her lore from the roleplay. At first she is pure evil, make havoc to the country after the fall of [[Nartial Kingdom]] that previously called Suprix kingdom. After years of life experience, she change Cibbi's faction from pure evil to more neutral. This is the beginning of Nartial story.
-
-For years, I see and hear a real nation with weird ah politics. And that is the reason I made [[Andhra Soliren]] and [[Azka Praya]].
+And she make a vessel and new world with her power that she got from learning. She make [[Republic of Nartial]]
 
 ---
 #  - Relationship 
