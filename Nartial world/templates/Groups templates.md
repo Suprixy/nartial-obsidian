@@ -1,12 +1,10 @@
 ---
-tags:
-group: Group
-sub group:
+group: "[[Groups]]"
 ---
 # - Introduction
 
 ---
 # Members
-[[]] (add base)
+![[]] (add base)
 ---
 # - Description

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Nartial home.md",
+                "file": "Nartial world/templates/Groups templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Nartial home"
+              "title": "Groups templates"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "-Nartial home.md",
+            "file": "Nartial world/templates/Groups templates.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,12 +176,12 @@
   },
   "active": "0f2d177cf024fb21",
   "lastOpenFiles": [
-    "Nartial world/Groups/Meagel Magic Academy.md",
-    "-Nartial home.md",
-    "Nartial world/Groups/GAPERA.md",
-    "Nartial world/+ newly added/Legends.base",
-    "Nartial world/Character/Suprixy.md",
     "Nartial world/Groups/Character.md",
+    "Nartial world/Groups/Meagel Magic Academy.md",
+    "Nartial world/Groups/GAPERA.md",
+    "-Nartial home.md",
+    "Nartial world/Bases/Legends.base",
+    "Nartial world/Character/Suprixy.md",
     "Nartial world/Bases/Characters.base",
     "Nartial world/+ newly added/Untitled.md",
     "Nartial world/Character/Azka Praya.md",

@@ -9,3 +9,5 @@ views:
     name: View
     image: note.icon
     cardSize: 150
+  - type: list
+    name: Description
