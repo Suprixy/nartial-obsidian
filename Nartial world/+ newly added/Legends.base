@@ -1,0 +1,11 @@
+filters:
+  and:
+    - group == link("Character")
+    - or:
+        - note["sub group"] == link("Legends")
+        - note["sub group 2"] == link("Legends")
+views:
+  - type: cards
+    name: View
+    cardSize: 150
+    image: note.icon

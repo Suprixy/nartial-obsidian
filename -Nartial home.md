@@ -19,6 +19,10 @@ creator: [[Suprixy]] :)
 #### -[[Neutral faction]]
 ![[Neutral faction.base]]
 
+#### -[[Legends]]
+![[Legends.base]]
+
+
 ---
 
 # ☆[[Magic System]]

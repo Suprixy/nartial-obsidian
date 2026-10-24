@@ -11,13 +11,14 @@
             "id": "0f2d177cf024fb21",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Nartial world/Bases/Characters.base",
-                "viewName": "View"
+                "file": "-Nartial home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Characters"
+              "icon": "lucide-file",
+              "title": "-Nartial home"
             }
           }
         ]
@@ -116,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nartial world/Bases/Characters.base",
+            "file": "-Nartial home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,11 +174,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0f2d177cf024fb21",
+  "active": "a6144731338fad42",
   "lastOpenFiles": [
-    "Nartial world/+ newly added/Untitled.md",
-    "Nartial world/Bases/Characters.base",
+    "Nartial world/+ newly added/Legends.base",
+    "Nartial world/Character/Suprixy.md",
     "Nartial world/Groups/Character.md",
+    "Nartial world/Bases/Characters.base",
+    "Nartial world/+ newly added/Untitled.md",
     "Nartial world/Character/Azka Praya.md",
     "-Nartial home.md",
     "stupid attachment/Suprixy_Voice.m4a",

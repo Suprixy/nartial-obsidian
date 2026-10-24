@@ -1,6 +1,6 @@
 ---
 group: "[[Character]]"
-sub group: "[[Neutral faction]]"
+sub group: "[[Legends]]"
 sub group 2:
 icon: "[[Suprixy_PP.jpeg]]"
 ---

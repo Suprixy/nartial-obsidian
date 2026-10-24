@@ -6,4 +6,5 @@ views:
     name: View
     order:
       - file.name
-      - file.ctime
+      - sub group
+      - sub group 2
