@@ -1,6 +1,4 @@
 ---
-tags:
-  - "#persona"
 group: "[[Character]]"
 sub group: "[[Neutral faction]]"
 sub group 2:
@@ -47,7 +45,7 @@ Long time ago, she play a roleplay about kingdom with her neighbors. She rolepla
 
 After years of life experience. She saw many information about weird politics in one country. Weird and kind off inhuman political plan, statement and  common senses. Nickel and palm tree make water dirty, flash flood and forest fire that harm normal civilians.
 
-And she make a vessel and new world with her power that she got from learning. She make [[Republic of Nartial]]
+And she make a new world with her power that she got from learning. She make a story about [[Republic of Nartial]]. A country based on her both past about Kingdom and a weird country. She made new empty vessel that she uses to represent herself in her world. Then she created the crystal of creation and destruction which she hold. Then made sky, ground, and water guardian to control abiotic system, life to control life genetics, light and shadow to manipulate other kinds of magic.
 
 ---
 #  - Relationship 
@@ -60,4 +58,5 @@ description of relation
 
 ---
 # - Fact 
-- 
+- PLEASE DON'T CALL ME GOD OH NPC (overite the code)
+- Suprixy is the representation of feeling

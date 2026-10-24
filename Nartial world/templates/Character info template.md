@@ -1,5 +1,4 @@
 ---
-tags:
 group: "[[Character]]"
 sub group:
 sub group 2:

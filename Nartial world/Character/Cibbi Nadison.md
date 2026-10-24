@@ -1,9 +1,4 @@
 ---
-tags:
-  - OC
-  - Nartial
-  - Meagel
-  - Cibbi
 group: "[[Character]]"
 sub group: "[[Meagel Magic Academy]]"
 sub group 2: "[[Nartial Kingdom]]"
