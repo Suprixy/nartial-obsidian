@@ -11,14 +11,10 @@
             "id": "0f2d177cf024fb21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nartial world/Nartial home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nartial home"
+              "title": "New tab"
             }
           }
         ]
@@ -174,10 +170,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a6144731338fad42",
+  "active": "0f2d177cf024fb21",
   "lastOpenFiles": [
-    "Nartial world/templates/Character info template.md",
+    "stupid attachment/Suprixy_Voice.m4a",
+    "stupid attachment/Suprixy_PP.jpeg",
+    "stupid attachment/Mizty_pp.jpeg",
+    "stupid attachment/cibbi_pp.png",
     "Nartial world/Nartial home.md",
+    "stupid attachment/cibbi _referenceSheet.jpeg",
+    "stupid attachment/Andhra_pp.png",
+    "-Nartial home.md",
+    "Nartial world/templates/Character info template.md",
     "Nartial world/Character/Cibbi Nadison.md",
     "stupid attachment/Untitled11_20261003125810.png",
     "Nartial world/Bases/Republic of Nartial.base",
