@@ -22,7 +22,7 @@ icon: "[[Andhra_pp.png]]"
 - Least favorite food:
 - Fear: [[Meagel Magic Academy]]
 - Music Playlist: [Spotify playlist](https://open.spotify.com/playlist/7dspk571IBEizF06oUTR4Z)
-- Voice claim: [Character name, media names]()
+- Voice claim: [Herb Overkill, Minion](https://youtu.be/DW-dmKOlXuk)
 
 ---
 # - Personality
