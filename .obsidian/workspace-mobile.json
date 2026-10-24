@@ -11,14 +11,13 @@
             "id": "0f2d177cf024fb21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "-Nartial home.md",
-                "mode": "source",
-                "source": false
+                "file": "Nartial world/Bases/Characters.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "-Nartial home"
+              "icon": "lucide-table",
+              "title": "Characters"
             }
           }
         ]
@@ -117,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nartial world/Nartial home.md",
+            "file": "Nartial world/Bases/Characters.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,6 +175,11 @@
   },
   "active": "0f2d177cf024fb21",
   "lastOpenFiles": [
+    "Nartial world/+ newly added/Untitled.md",
+    "Nartial world/Bases/Characters.base",
+    "Nartial world/Groups/Character.md",
+    "Nartial world/Character/Azka Praya.md",
+    "-Nartial home.md",
     "stupid attachment/Suprixy_Voice.m4a",
     "stupid attachment/Suprixy_PP.jpeg",
     "stupid attachment/Mizty_pp.jpeg",
@@ -183,7 +187,6 @@
     "Nartial world/Nartial home.md",
     "stupid attachment/cibbi _referenceSheet.jpeg",
     "stupid attachment/Andhra_pp.png",
-    "-Nartial home.md",
     "Nartial world/templates/Character info template.md",
     "Nartial world/Character/Cibbi Nadison.md",
     "stupid attachment/Untitled11_20261003125810.png",
@@ -198,10 +201,7 @@
     "Nartial world/+ newly added/Meagel Magic Academy]] , [[kingdom.md",
     "Nartial world/Groups/GAPERA.md",
     "Nartial world/templates/Groups templates.md",
-    "Nartial world/Groups/Character.md",
     "Nartial world/Nartial bases.base",
-    "Nartial world/+ newly added/Untitled.md",
-    "Nartial world/Bases",
     "Nartial world/Groups/Meagel Magic Academy.md",
     "Nartial world/+ newly added/Git sych test.md",
     "Nartial world/Character/Andhra Soliren.md"

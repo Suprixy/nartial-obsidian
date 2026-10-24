@@ -26,6 +26,7 @@
     "editor:insert-codeblock",
     "audio-recorder:start",
     "audio-recorder:stop",
+    "bases:insert",
     "editor:configure-toolbar"
   ],
   "alwaysUpdateLinks": true
