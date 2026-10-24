@@ -1,12 +1,8 @@
 ---
-tags:
-  - "#OC"
-  - "#GAPERA"
-  - "#Mizty"
 group: "[[Character]]"
 sub group: "[[GAPERA]]"
 sub group 2:
-icon:
+icon: "[[Mizty_pp.jpeg]]"
 ---
 # - Introduction 
 
@@ -39,31 +35,25 @@ While she study about psychology, she secretly become a member of an organizatio
 
 ---
 #  - Images
-- computer side
-
-- mobile side
-
-![[massive redesign oc.png]]
+![[Mizty_pp.jpeg|353]]
 
 ---
 #  - Lore (edit gak)
-She was born in [[Allanea]]. She is the second child of 4. She has 1 older sister and 2 brothers.She live near the sea. When she was a child, she really enjoyed swimming and catching fish in the sea. Her parents job is a oyster farmer, from that she got her pearl necklace.
+She was born in [[Allanea]]. She is the second child of 4. She has 1 older sister and 2 brothers. She live near the sea. When she was a child, she really enjoyed swimming and catching fish in the sea. Her parents job is a oyster farmer, from that she got her pearl necklace to remember her home country.
 
-She was and is a smart student. She always got A score on every test. When she was in elementary and middle/junior high school, she won a national math competition from Allanea. Sometimes she got praised sometime don't, yet she didn't really care about praised after all.
+She was and is a smart student. She always got A score on every test. When she was in elementary and middle/junior high school, she won a national socials competition from Allanea. Sometimes she got praised sometime don't, yet she didn't really care about praised after all.
 
+At 16 years old, she got a high school scholarship to Nartial. When she arrived , she was shocked and confused by cultural difference between Allanea and Nartial. Then she went to her boarding room. She is fascinated with the beauty of a lot of culture that exist together, Magic, clothes, and the history of Nartial itself. Because of her new interest, She also bought and wear one of Nartials traditional clothes, [[Bodoya clothes]].
 
-At 16th years old, she got a high school scolarship to Nartial. When she arrived , she was shocked and confused by cultural difference between Allanea and Nartial. Then she went to her dorm. Cleaned and sorted room and items that she brought. She fell weird on the first day, not knowing what to do.
+ketemu cibbi, (pls don't make yuri even if it inevetable)
 
-(ketemu cibbi)
-
-
-Then she got a scholarship in Nizema University. She absolutely happy and enjoy studying about psychology.
+Then she got a scholarship in [[Meagel University]]. She absolutely happy and enjoy studying about psychology. She want to become clinical psychologist because she lr
 
 ---
 #  - Relationship 
 ### [[Cibbi Nadison]]
 Friends
-Wanna know about her condition more and ask help for homework
+Wanna know about the history of Nartial and her conditions more and ask help for homework.
 
 " Thanks to Cibbi for taught me how to do statistic. Also I wanna study more about her current conditions even though I'm just a college student."
 
@@ -73,6 +63,14 @@ She thinks Azka has weird goals to change government system again just like how 
 
 "He just a random person who want to change government system huh. I don't think that won't work consider what is going on in [[Meagel Magic Academy]]"
 
+### [[Suprixy]]
+interacted
+Just double check facts from [[Cibbi Nadison]]
+
+"So, you are Suprixy huh?"
+
 ---
 # - Fact 
-- insert
+- Her necklace is made by her sister and Mizty wear it to remember her origin
+  
+- She scared with holes because when she was a kid she accidently saw a image of hand with full of holes (IYKYK)

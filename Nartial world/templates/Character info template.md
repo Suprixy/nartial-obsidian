@@ -1,5 +1,4 @@
 ---
-tags:
 group: "[[Character]]"
 sub group:
 sub group 2:
@@ -30,13 +29,10 @@ icon:
 
 ---
 #  - Images
-- computer side
-
-- mobile side
 
 ---
 
-#  - Lore (edit gak!)
+#  - Lore
 
 ---
 #  - Relationship 
