@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Nartial home.md",
+                "file": "Nartial world/Groups/GAPERA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Nartial home"
+              "title": "GAPERA"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "-Nartial home.md",
+            "file": "Nartial world/Groups/GAPERA.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,15 +174,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a6144731338fad42",
+  "active": "0f2d177cf024fb21",
   "lastOpenFiles": [
+    "-Nartial home.md",
     "Nartial world/+ newly added/Legends.base",
     "Nartial world/Character/Suprixy.md",
     "Nartial world/Groups/Character.md",
     "Nartial world/Bases/Characters.base",
     "Nartial world/+ newly added/Untitled.md",
     "Nartial world/Character/Azka Praya.md",
-    "-Nartial home.md",
     "stupid attachment/Suprixy_Voice.m4a",
     "stupid attachment/Suprixy_PP.jpeg",
     "stupid attachment/Mizty_pp.jpeg",
@@ -204,7 +204,6 @@
     "Nartial world/+ newly added/Meagel Magic Academy]] , [[kingdom.md",
     "Nartial world/Groups/GAPERA.md",
     "Nartial world/templates/Groups templates.md",
-    "Nartial world/Nartial bases.base",
     "Nartial world/Groups/Meagel Magic Academy.md",
     "Nartial world/+ newly added/Git sych test.md",
     "Nartial world/Character/Andhra Soliren.md"
