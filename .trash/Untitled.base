@@ -1,8 +1,0 @@
-views:
-  - type: table
-    name: View
-    filters:
-      and:
-        - group == link("Character")
-  - type: list
-    name: Character list

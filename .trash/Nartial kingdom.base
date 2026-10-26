@@ -1,9 +1,0 @@
-views:
-  - type: list
-    name: Nartial Kingdom
-    filters:
-      and:
-        - group == link("Character")
-        - or:
-            - note["sub group"] == link("Nartial Kingdom")
-            - note["sub group 2"] == link("Nartial Kingdom")
