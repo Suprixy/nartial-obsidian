@@ -17,7 +17,7 @@ Zetta is a passionate baker who really love baking. From her favorite cartoon wh
 - Weight: 55 kg
 - Birthday: October 11th
 - Hobbies: baking
-- Personal interest: sandwich
+- Personal interest: make sandwich variation
 - Most favorite food: sandwich
 - Least favorite food:
 - Fear:
@@ -37,12 +37,12 @@ Zetta is a passionate baker who really love baking. From her favorite cartoon wh
 
 ---
 #  - Relationship 
-### [|[Character name]|]
+### [[Nio Rakamusha]]
 name of relationship
 description of relation
 
 " comment of character."
-
+### [[Runa Anita]]
 
 ---
 # - Fact 

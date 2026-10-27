@@ -5,7 +5,7 @@ sub group 2:
 icon: "[[Andhra_pp.png]]"
 ---
 # - Introduction (edit gak)
-
+Soliren is the current leader of Nartial. Dreamed to be a police, but failed be he wasn't fit to registrasion criteria. After failing to past police he decided to learn politics and became president. He became a president . But in the end everyone in Nartial mad at him because he became greedy and care much to money and found what he did to gain his power.
 
 ---
 # - Basic Information
@@ -14,19 +14,19 @@ icon: "[[Andhra_pp.png]]"
 - Gender: Cis male
 - Age: 45
 - Height: 163 cm
-- Weight: 54 kg
-- Birthday: 12 June
+- Weight: 51 kg
+- Birthday: June 12
 - Hobbies: listening music and collecting music record (dangdut)
 - Personal interest: money
 - Most favorite food: Rawon
-- Least favorite food:
+- Least favorite food: steak
 - Fear: [[Meagel Magic Academy]]
 - Music Playlist: [Spotify playlist](https://open.spotify.com/playlist/7dspk571IBEizF06oUTR4Z)
 - Voice claim: [Herb Overkill, Minion](https://youtu.be/DW-dmKOlXuk)
 
 ---
 # - Personality
-
+He is too confident but chill to everyone. Now he has greed for money
 
 ---
 #  - Images

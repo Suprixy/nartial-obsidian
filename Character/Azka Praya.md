@@ -22,8 +22,8 @@ Silencing civilians voices who try to critic government and tell the truth about
 - Hobbies: Camping
 - Personal interest: Helping people
 - Most favorite food: sandwich
-- Least favorite food: 
-- Fear:
+- Least favorite food: tape singkong (fermented cassava)
+- Fear: hurt people
 - Music Playlist: [Spotify playlist]()
 - Voice claim: [Character name, media names]()
 

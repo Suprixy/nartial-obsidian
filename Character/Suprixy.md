@@ -30,7 +30,7 @@ The creator herself is weird and complicated to say. Doesn't want to open what i
 
 ---
 # - Personality
-who knows the character of the creator huh? I won't tell it
+who knows the character of the creator huh? I won't tell it :)
 
 ---
 #  - Images

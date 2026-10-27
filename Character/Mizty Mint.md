@@ -23,7 +23,7 @@ While she study about psychology, she secretly become a member of an organizatio
 - Hobbies: Singing
 - Personal interest: Psychology and history
 - Most favorite food: Grilled oyster
-- Least favorite food: 
+- Least favorite food: cinnamon rolls
 - Fear: trypophobia (fear of holes)
 - Music Playlist: [spotify playlist](https://open.spotify.com/playlist/3jrAUZtPFcC2caPEYeFnrA)
 - Voice claim: [Anna, frozen](https://youtu.be/2prdMSyAPXc)
@@ -31,7 +31,7 @@ While she study about psychology, she secretly become a member of an organizatio
 ---
 # - Personality
 
-
+Mizty's personality is bubbly, emphatic and compassionate towards people. Love to help people and study something new. Mizty also observe things around her. If she with her close friends sometimes she is quite judgmental when she talks.
 
 ---
 #  - Images

@@ -19,16 +19,16 @@ When she was young, her parents were dead from housefire. She was adopted by Nar
 - Weight: 44 kg
 - Birthday: January 13th
 - Hobbies: Reading book (mostly about magic)
-- Personal interest: Magic and physics
+- Personal interest: Magic physics
 - Most favorite food: Udon
-- Least favorite food: Anything with tomatoes
+- Least favorite food: anything with chocolate
 - Fear: Cooking gas
 - Music Playlist: [spotify playlist](https://open.spotify.com/playlist/1VmB0uaQaC0BehYAW1qalx)
 - Voice claim: [Black Raisin cookie, Cookie Run Kingdom (en)](https://youtu.be/kxpJvJt8KV0)
 
 ---
 # - Personality
-She is mostly introverted and loves spend her time to study, reads. and writes books either in library or her own realm. She mostly shows flat expression when she is with another people.
+She is mostly introverted and loves spend her time to study, reads. and writes books either in library or her own realm. She mostly shows flat expression when she is with another people and serious when talk. 
 
 ---
 #  - Images
@@ -85,7 +85,7 @@ The creator made her suffer and she obviously hates it
 
 ---
 # - Fact 
-- Cibbi hates tomatoes because she thinks tomatoes taste are disgusting
+- Cibbi hates chocolate because chocolate was forbidden when she was a kid
 - Cibbi never touch normal kitchen again after her parents death
 - She always use cardigan to remember her mother kindness
 - She always wears a skirt when not camouflaging so she won't misgendered again (she is cis female)
