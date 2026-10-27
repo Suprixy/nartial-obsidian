@@ -11,3 +11,8 @@ group: "[[Groups]]"
 # - Description
 
 ---
+# - Structure
+- leader
+- sub-leader
+- secretary
+- treasurer

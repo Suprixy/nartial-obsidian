@@ -5,7 +5,7 @@ sub group 2:
 icon:
 ---
 # - Introduction 
-Zenthiya is a passionate baker who really love baking. From her fav comic when she was child, she was inspired to bake. From that she learned to make many types of bread. After years she mastered it. From that she made a bakery. Little by little her bakery become popular all around Nartial.
+Zetta is a passionate baker who really love baking. From her favorite cartoon when she was child, she was inspired to bake. From that she learned to make many types of bread. After years she mastered it. From that she made a bakery. Little by little her bakery become popular all around Nartial.
 
 ---
 # - Basic Information
