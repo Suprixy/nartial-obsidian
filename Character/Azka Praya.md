@@ -5,10 +5,7 @@ sub group 2: "[[GAPERA]]"
 icon:
 ---
 # - Introduction 
-Azka is a police offices who forced to be a buzzer. His mind is naive and who always want to know more about Nartials problem. Even if he lacks of knowledge, he will try to gather it more and more until everything he needs is fulfilled. 
-
-
-Silencing civilians voices who try to critic government and tell the truth about Nartial history. But he really hates his role to be a buzzer. He tried so bad to at least move to another divisions, but because of his experience he is still forced to be a buzzer. Then he left and join an organization that actually substitute most of police job. And now he try to find out more truth.
+Azka is a police offices who want to help civilians but forced to be a buzzer. A buzzer that hide news and silenced anyone who critic government in any way. After tried to change role, he failed and still be the buzzer. Then he cannot withsdtand to be buzzer again. Left the police forces and find all of the truth that government hide he tried to hide.
 
 ---
 # - Basic Information
