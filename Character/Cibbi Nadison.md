@@ -48,9 +48,11 @@ After her family death, now she become the only pink cat that lives in Nartial. 
 
 Then she was lived in orphanage. Still be the smart student, she always get extras which is weird because why she must get the extras.
 
-After few months, the king made a controversial decision to adopted 1 orphan per big island that exist, total of 3. Cibbi was one of the orphan that chosen. She was given the [[sky crystal]], a power to control wind and thunder. She wondered why she was the one who got wind, even though there was other orphan who were 1 year older than her. The king explained that he chose her because of her intelligence. In the end she accepted the sky crystal and became the [[Sky Princess]].
+After few months, the king made a controversial decision to adopted 1 orphan per big island that exist, total of 3. Cibbi was one of the orphan that chosen. She was given the [[wind crystal]], a power to control wind and thunder. She wondered why she was the one who got wind, even though there was other orphan who were 1 year older than her. The king explained that he chose her because of her intelligence. In the end she accepted the sky crystal and became the [[Wind Princess]].
 
-In May 21th 2004, A Coup d'état was happened. The adopted princess tried to protect at least the main princess (The daughters of kingdom family), [[Rainbow princess]] and [[Flower princess]]. Cibbi tried to use a heavy wind shield. But in the end when [[water princess]] was in near death, Cibbi was told to run away as far as she can. This is the end of [[Nartial Kingdom]] and the beginning of [[Republic of Nartial]].
+In May 21th 2004, A Coup d'état was happened. The adopted princess tried to protect at least the main princess (The daughters of kingdom family), [[Rainbow princess]] and [[Flower princess]]. Cibbi found [[Santi Sunaboga]] the queen was in critical condition. Santi gave her [[Sky crystal]] .
+
+Cibbi tried to use a heavy wind shield. But in the end when [[water princess]] was in near death, Cibbi was told to run away as far as she can. This is the end of [[Nartial Kingdom]] and the beginning of [[Republic of Nartial]].
 
 Cibbi ran away from  The first thing she did was sold her royal dresses and buy new clothes and food to survive. No education, no entertainment, only survival .On first week she can survive, slept on the road and take a shower in public toilet. On second weeks, her savings was always gone. Several attempt she tried to gain money without doing crimes, but in the end her saving always got taken by police officer in front of her because her status is wanted just because she was the princess.
 
