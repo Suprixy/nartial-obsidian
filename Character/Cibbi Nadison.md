@@ -12,6 +12,7 @@ When she was young, her parents were dead from housefire. She was adopted by Nar
 ---
 # - Basic Information
 - Full name: Cibbi Nadison
+- Phonetic name: 
 - Pronouns: She/her
 - Gender: Cisgender female
 - Age: 22
